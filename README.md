@@ -1,6 +1,11 @@
 # Мини-проект по функану. Кусочно-линейные функции.
 ---
 ### Программа по заданной сетке с файла строит приближение функции кусочно-линейным базисом.
+
+![example-1](https://sun9-41.userapi.com/impg/IXKuMUBIgWmvxMGrt6OwMXr7IiL10vw2BGO6dg/Umqt_y05gro.jpg?size=389x278&quality=96&sign=dd700b22ce5a490682d344a46183f0f9&type=album) 
+ ![example-2](https://sun9-64.userapi.com/impg/hCJVwpFG4rLrLPs09QI_F04d0eecHVdzzX3Bow/VOs-tsMWp0s.jpg?size=400x278&quality=96&sign=71034488a42ef6b98068a5e491f1bf98&type=album)
+
+
 ### Для запуска программы **последовательно** нажимайте туда, куда **указывает** красная стрелочка. Также вы можете запустить код ячейки путём нажатия комбинации клавиш ```Command/Ctrl+Enter```.
 ### Ввод сетки происходит с **файла**, файл должен быть сформирован **заранее**.
 ### Формат файла - ```.txt```
