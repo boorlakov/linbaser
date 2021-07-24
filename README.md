@@ -1,4 +1,4 @@
-# Мини-проект по функану. Кусочно-линейные функции.
+# Мини-проект по функану. Кусочно-линейные функции [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/boorlakov/6f247a97709d8d9c92c001fb51a9e406/linear_miniproject_funcan_appr.ipynb)
 ---
 ### Программа по заданной сетке с файла строит приближение функции кусочно-линейным базисом.
 
